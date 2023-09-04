@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PVZ_USFX_LAB01.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F0B83D37-F37C-4841-B44A-7ED3917507D4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PVZ_USFX_LAB01.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PVZ_USFX_LAB01Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{53EC31E4-75F0-4D87-A6C6-B97FC5DCC553}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PVZ_USFX_LAB01">
+      <UniqueIdentifier>{8872CF9C-2B8C-4C5D-8E53-72BA8D5A47B0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB01\MyPlant.cpp">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB01\MyPlant.h">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB01\NewActorComponent.cpp">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB01\NewActorComponent.h">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB01\NewStaticMeshComponent.cpp">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB01\NewStaticMeshComponent.h">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB01\Plant.cpp">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB01\Plant.h">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01.Build.cs">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01.cpp">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01.h">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01GameMode.cpp">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01GameMode.h">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01Pawn.cpp">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01Pawn.h">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01Projectile.cpp">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01Projectile.h">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB01\Zombie.cpp">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB01\Zombie.h">
+      <Filter>Source\PVZ_USFX_LAB01</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
